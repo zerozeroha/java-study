@@ -1,2 +1,2 @@
 # java-study
-example
+이젠아카데미 웹서비스 풀스택 스터디그룹
