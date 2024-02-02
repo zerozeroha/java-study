@@ -6,7 +6,7 @@ create table emptbl(id int, fName varchar(50), lName varchar(50) );
 
 /*-------------------------------------------------SELECT------------------------------------------*/
 
-select * from producttbl;
+select * from producttbl;  //여기 변수 잘못됨
 select * from personaltbl;
 select * from emptbl;
 
